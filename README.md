@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá!+👋;+Sou+Arley+Barros+dos+Santos!;" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=hand+jet&size=40&pause=1000&width=435&lines=the+Arley;" />
 </h1>
 <h3>Desenvolvedor Java-End </h3>
 
