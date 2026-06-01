@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=hand+jet&size=40&pause=1000&width=435&lines=the+Arley;" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=hand+jet&size=40&pause=1000&width=435&lines=the+Arley+Dev;" />
 </h1>
 <h3>Desenvolvedor Java-End </h3>
 
